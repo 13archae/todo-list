@@ -18,4 +18,7 @@
 
 - Change the functionality to use the boolean value in the data store to mark " done, then add a second list of completed items to the UI.
 
+#### License
+
+MIT
 
